@@ -1,4 +1,3 @@
-from turtle import left
 
 
 class Node():

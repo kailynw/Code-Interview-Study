@@ -1,4 +1,3 @@
-from re import I
 
 
 class Node:
@@ -32,5 +31,3 @@ if __name__ == "__main__":
     
     new_linked_list = solution(head, 4)
     print(new_linked_list)
-
-344
